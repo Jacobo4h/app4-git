@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap ="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.example1"
+  id ="com.phonegap.example4"
   version ="1.0.0">
   
-  <name> app1 Actualizada DATOSALUMNOS </name>
+  <name> app4 Datos del dispositivo </name>
   
   <description>
-  Aplicacion que muestra los Datos del alumno
+  Aplicacion que muestra los Datos del dispositivo
   </description>
   
   <author href="http://build.phonegap.com"  email="infernium159@gmail.com">
